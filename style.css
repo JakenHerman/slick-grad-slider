@@ -1,0 +1,12 @@
+.slick-prev:before, .slick-next:before {
+    color:grey !important;
+}
+.archived-video {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    max-width: 80%;
+}
+.child {
+    border: 8px solid white;
+}
